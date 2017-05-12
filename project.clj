@@ -1,6 +1,6 @@
-(defproject ancient-clj "0.3.15-SNAPSHOT"
+(defproject io.sattvik/ancient-clj "0.3.15-SNAPSHOT"
   :description "Maven Version Utilities for Clojure"
-  :url "https://github.com/xsc/ancient-clj"
+  :url "https://github.com/sattvik/ancient-clj"
   :license {:name "MIT License"
             :url "https://opensource.org/licenses/MIT"
             :year 2013
